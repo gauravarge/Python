@@ -4,3 +4,4 @@ print(x+y+z)
 '''
 #print  formating in python
 print("{},{},{}".format(x,y,z))
+print(f"{x};{y};{z}")
