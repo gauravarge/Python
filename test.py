@@ -1,3 +1,2 @@
-import os
-file= open("/root/Python_Scripts/server.txt","r+")
-print (file.read())
+my_name=input("Enter your name")
+print(my_name[:4])
